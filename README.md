@@ -1,4 +1,4 @@
-# Google Gemini AI Chat Application
+
 
 ## File Structure
 
